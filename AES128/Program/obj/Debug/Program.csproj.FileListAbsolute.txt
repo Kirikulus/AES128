@@ -1,0 +1,14 @@
+W:\ScriptsC#\Program\Program\bin\Debug\Program.exe.config
+W:\ScriptsC#\Program\Program\bin\Debug\Program.exe
+W:\ScriptsC#\Program\Program\bin\Debug\Program.pdb
+W:\ScriptsC#\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+W:\ScriptsC#\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+W:\ScriptsC#\Program\Program\obj\Debug\Program.exe
+W:\ScriptsC#\Program\Program\obj\Debug\Program.pdb
+W:\ScriptsC#\AES-128 шифрование дешифрование\Program\bin\Debug\Program.exe.config
+W:\ScriptsC#\AES-128 шифрование дешифрование\Program\bin\Debug\Program.exe
+W:\ScriptsC#\AES-128 шифрование дешифрование\Program\bin\Debug\Program.pdb
+W:\ScriptsC#\AES-128 шифрование дешифрование\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+W:\ScriptsC#\AES-128 шифрование дешифрование\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+W:\ScriptsC#\AES-128 шифрование дешифрование\Program\obj\Debug\Program.exe
+W:\ScriptsC#\AES-128 шифрование дешифрование\Program\obj\Debug\Program.pdb
